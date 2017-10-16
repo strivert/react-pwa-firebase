@@ -6,8 +6,10 @@
   "author": "prageer",
   "license": "MIT",
   "dependencies": {
+    "material-ui": "^0.19.4",
     "react": "^16.0.0",
-    "react-dom": "^16.0.0"
+    "react-dom": "^16.0.0",
+    "react-tap-event-plugin": "^3.0.2"
   },
   "scripts": {
     "start": "cross-env NODE_ENV=development webpack-dev-server",
