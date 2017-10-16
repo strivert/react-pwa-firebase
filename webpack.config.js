@@ -20,6 +20,6 @@ module.exports = {
 	devServer: {
 		contentBase: './public',
 		host: 'localhost',
-		prot: 8080
+		port: 8080
 	}
 }
