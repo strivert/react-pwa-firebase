@@ -10,6 +10,9 @@
     "react-dom": "^16.0.0"
   },
   "devDependencies": {
+    "babel-core": "^6.26.0",
+    "babel-loader": "^7.1.2",
+    "babel-preset-react-app": "^3.0.3",
     "webpack": "^3.7.1",
     "webpack-dev-server": "^2.9.2"
   }
