@@ -20,7 +20,7 @@ class AppShell extends Component {
 	handleRequestChange = (open) => {
 		this.setState({
 			open: open
-		});
+		}); 
 	}
 
  	render() {
