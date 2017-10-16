@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "main": "index.js",
   "repository": "https://github.com/prageer/react-pwa-firebase.git",
-  "author": "prageer <audrius88716@mail.com>",
+  "author": "prageer",
   "license": "MIT",
   "dependencies": {
     "react": "^16.0.0",
